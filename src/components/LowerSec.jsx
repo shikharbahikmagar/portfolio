@@ -6,7 +6,7 @@ function LowerSec() {
         <>
             <section className='h-96 scroll-smooth'>
                 <div className='md:mt-[250px] mt-[80px]'>
-                    <h1 className='text-center md:mt-[-50px]'>FIND <span className='text-[#c770f0]'>ME</span> ON</h1>
+                    <h1 className='text-center text-slate-300 md:mt-[-50px]'>FIND <span className='text-[#c770f0]'>ME</span> ON</h1>
                     <ul className='mt-[80px] flex justify-center items-center gap-12'>
                         <li title='facebook' className='ml-[-5px]'>
                             <a target='_blank' href="https://www.facebook.com/shikharbahik.magar.69/"> 
