@@ -22,7 +22,7 @@ function LowerSec() {
                         </svg>
                         </a></li>
                         {/* insta */}
-                        <li><a href="">
+                        <li title='instagram'><a href="https://www.instagram.com/sbm7586?igsh=MTBvZ21wbDJnY3MyNA%3D%3D&utm_source=qr">
                             <svg xmlns="http://www.w3.org/2000/svg"
                             className="h-7 w-7"
                             fill="currentColor"
@@ -33,7 +33,7 @@ function LowerSec() {
                         </svg>
                         </a></li>
                         {/* twitter */}
-                        <li>
+                        <li title='twitter'>
                             <a href="">
                                 <svg
                                     xmlns="http://www.w3.org/2000/svg"
@@ -47,8 +47,8 @@ function LowerSec() {
                             </a>
                         </li>
                         {/* linkedin */}
-                        <li>
-                            <a href="">
+                        <li title='linkedin'>
+                            <a href="https://www.linkedin.com/in/shikhar-magar-70b2aa282">
                                 <svg
                                     xmlns="http://www.w3.org/2000/svg"
                                     className="h-7 w-7"
