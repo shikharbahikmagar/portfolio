@@ -10,7 +10,7 @@ function Navbar() {
                 initial={{ y: -150 }}
                 animate={{ y: 0 }}
                 transition={{ delay: .2, type: 'spring', stiffness: 50 }}
-                className='md:ml-[210px] ml-[70px] text-2xl text-slate-300 font-semibold font-serif'>
+                className='md:ml-[210px] ml-[50px] text-2xl text-slate-300 font-semibold font-serif'>
                 Sb.
             </motion.div>
 
@@ -18,7 +18,7 @@ function Navbar() {
                 initial={{ y: -150 }}
                 animate={{ y: 0 }}
                 transition={{ delay: .2, type: 'spring', stiffness: 50 }}
-                className='md:flex hidden ml-[35%] cursor-pointer gap-14'>
+                className='md:flex hidden ml-[42%] cursor-pointer gap-14'>
                 <li className='text-xl relative after:bg-purple-400 after:absolute after:h-[2px] after:mt-[5px] after:w-0 after:bottom-0 after:left-0 hover:after:w-full hover:text-purple-400 after:transition-all after:duration-[.7s] cursor-pointer'>Home</li>
                 <li className='text-xl relative after:bg-purple-400 after:absolute after:h-[2px] after:w-0 after:bottom-0 after:left-0 hover:after:w-full hover:text-purple-400 after:transition-all after:duration-[.7s] cursor-pointer'>About</li>
                 <li className='text-xl relative after:bg-purple-400 after:absolute after:h-[2px] after:w-0 after:bottom-0 after:left-0 hover:after:w-full hover:text-purple-400 after:transition-all after:duration-[.7s] cursor-pointer'>Projects</li>
