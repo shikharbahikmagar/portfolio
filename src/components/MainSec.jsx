@@ -19,7 +19,7 @@ function MainSec() {
                     initial={{ x: 100 }}
                     whileInView={{ x: 0 }}
                     viewport={{ once: true, amount: .1}}
-                    transition={{ delay: .3, type: 'spring', stiffness: 100 }} className='text-xl font-serif col-span-7 mt-[130px] ml-[35px] md:ml-[130px]'>
+                    transition={{ delay: .3, type: 'spring', stiffness: 100 }} className='text-slate-300 text-xl font-serif col-span-7 mt-[130px] ml-[35px] md:ml-[130px]'>
                     <h2>"I'm a web developer with </h2>
 
                     <h2 className='mt-[50px]'> expertise in <span className='text-[#c770f0] italic'>PHP</span>, particularly <span className='text-[#c770f0] italic'>Laravel,</span> as well as <span className='text-[#c770f0] italic'>Javascript</span> and <span className='text-[#c770f0] italic'>React</span>.</h2>
