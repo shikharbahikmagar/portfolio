@@ -7,6 +7,7 @@ import Header from './components/Header'
 import MainSec from './components/MainSec'
 import LowerSec from './components/LowerSec'
 import Footer from './components/Footer'
+import { Outlet } from 'react-router-dom'
 
 function App() {
   const [count, setCount] = useState(0)
@@ -16,15 +17,9 @@ function App() {
 {/* Navbar */}
     <Navbar/>
 
-      {/* hero sections */}
-    <Header />
-
     {/* Main Section */}
 
-    <MainSec />
-
-    {/* lower ssection */}
-    <LowerSec />
+    <Outlet />
 
     {/* Footer section */}
     <Footer />
