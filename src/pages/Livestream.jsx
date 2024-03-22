@@ -14,6 +14,9 @@ function Livestream() {
                     display="block"
                     position="relative" />
 
+                <h2 className='mt-400px text-orange-400'>This website does not create or host or share any video. All video streams are embed here from external websites that are available freely online.</h2>
+
+
             </div>
             <div className='h-screen md:hidden'>
                 <Iframe url="https://embedstreams.me/ipl/chennai-super-kings-vs-royal-challengers-bangalore-stream-1"
@@ -24,7 +27,7 @@ function Livestream() {
                     display="block"
                     position="relative" />
 
-                <h1 className='mt-400px'>K xa kta haru</h1>
+                <h2 className='mt-400px text-orange-400'>This website does not create or host or share any video. All video streams are embed here from external websites that are available freely online.</h2>
             </div>
         </>
 
