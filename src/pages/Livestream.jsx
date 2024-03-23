@@ -29,6 +29,11 @@ function Livestream() {
 
                 <h2 className='mt-400px text-orange-400'>This website does not create or host or share any video. All video streams are embed here from external websites that are available freely online.</h2>
             </div>
+
+            <div className='h-screen'>
+                <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5569807454817546"
+                    crossorigin="anonymous"></script>
+            </div>
         </>
 
 
