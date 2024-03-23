@@ -6,7 +6,7 @@ function Livestream() {
         <>
 
             <div className='h-screen hidden md:block'>
-                <Iframe url="'https://embedstreams.me/ipl/punjab-kings-vs-delhi-capitals-stream-1"
+                <Iframe url="https://embedstreams.me/ipl/punjab-kings-vs-delhi-capitals-stream-1"
                     width="800px"
                     height="460px"
                     id=""
@@ -19,7 +19,7 @@ function Livestream() {
 
             </div>
             <div className='h-screen md:hidden'>
-                <Iframe url="'https://embedstreams.me/ipl/punjab-kings-vs-delhi-capitals-stream-1"
+                <Iframe url="https://embedstreams.me/ipl/punjab-kings-vs-delhi-capitals-stream-1"
                     width="400px"
                     height="260px"
                     id=""
